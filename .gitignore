@@ -1,1 +1,11 @@
-empty
+node_modules
+dist
+.build
+.idea
+.vscode
+
+.cache
+.env
+.angular
+.nx
+.graphqlrc.yml
